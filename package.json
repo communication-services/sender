@@ -1,0 +1,21 @@
+{
+  "name": "communication_senderservice",
+  "version": "1.0.0",
+  "description": "SenderService",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url" : "git@github.com:communication-services/sender.git"
+  },
+  "keywords": [
+    "ecosystem:allex",
+    "Service",
+    "Sender"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC"
+}
+
